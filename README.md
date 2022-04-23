@@ -2,7 +2,7 @@
 ___
 
 *El siguiente programa permite, crear alumnos, grados, ingreso de notas etc.*
-Cuando se ejecute el programa iniciara con varias opciones las cuales detallaremos y explicaremos su funcionabilidad.
+*Cuando se ejecute el programa iniciara con varias opciones las cuales detallaremos y explicaremos su funcionabilidad.*
 
 * Las opciones son las siguientes:
 
@@ -61,13 +61,7 @@ Listar los alumnos de un grado por sección: en este apartado se verá el códig
 Todos los alumnos: en este apartado se detallan todos los alumnos que estén registrados en al base de datos.
 
 Todos los bimestres: en este apartado se detalla toda la información de cada uno de los bimestres lo cuales son 4 predeterminadamente.
-
-
-
-### Pasos para ejecutar programa
-1. Paso 1) *Se despliega un menú de opciones de el uno al cinco las cuales indican lo siguiente:*
-
  
 
 ### Enlace
-[Video Turorial](https://youtu.be/TeSJP7zJD_E)
+[Video Turorial](https://youtu.be/-t54coyQrwk)
